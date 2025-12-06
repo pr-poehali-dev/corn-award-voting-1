@@ -23,7 +23,7 @@ type Category = {
 const INITIAL_CATEGORIES: Category[] = [
   {
     id: 'best-content',
-    title: 'Лучший контент',
+    title: 'Лучший чатер',
     icon: 'Star',
     nominees: [
       { id: '1', name: 'Александр Петров', description: 'Уникальный подход к созданию образовательного контента', votes: 0 },
